@@ -121,7 +121,7 @@ button{
 }
 
 @keyframes change {
-    60%{
+    50%{
         background-image: url(images/image2.jpg);
     }
     /* 80%{
